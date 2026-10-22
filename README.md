@@ -17,7 +17,6 @@ I'm an Electrical & Computer Engineering student at **New Mexico State Universit
 |---|---|---|
 | Formuly | Backend API for a salon tracking web app | Flask, PostgreSQL, SQLAlchemy |
 | Wikipedia Flower Dataset | Scraper + OOP data model + visualizations for 1,000+ records | Python, Pandas, BeautifulSoup |
-| MIPS Processor | MIPS CPU designed and verified in VHDL | VHDL, ModelSim/testbench |
 | Autonomous Robot Car | Obstacle-avoiding Arduino robot | C/C++, Arduino |
 
 ### Connect
